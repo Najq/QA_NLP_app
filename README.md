@@ -1,8 +1,6 @@
 <h2>Question Answering on SQuAD 2.0</h2>
 
-[![Requirements Status]
-<br>
-[![Build Status]
+
 
 > Aswering questions related to the context provided using various deep learning methods.
 
