@@ -24,7 +24,7 @@
 ```bash
 $ virtualenv env              # Create virtual environment
 $ source env/bin/activate     # Change default python to virtual one
-(env)$ git clone https://github.com/inderpartap/QA_NLP_app.git
+(env)$ git clone https://github.com/najq/QA_NLP_app.git
 (env)$ cd QA_NLP_app
 (env)$ pip install -r requirements.txt
 ```
