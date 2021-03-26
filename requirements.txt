@@ -116,10 +116,4 @@ typing-extensions
 tzlocal
 urllib3
 validators
-wandb
-watchdog
-wcwidth
-webencodings
-Werkzeug
-widgetsnbextension
 
